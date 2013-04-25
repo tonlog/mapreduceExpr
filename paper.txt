@@ -1,0 +1,7 @@
+Google publishes hundreds of research papers each year. Publishing is important to us; it enables us to collaborate and share ideas with, as well as learn from, the broader scientific community. Submissions are often made stronger by the fact that ideas have been tested through real product implementation by the time of publication.
+
+We believe the formal structures of publishing today are changing - in computer science especially, there are multiple ways of disseminating information.  We encourage publication both in conventional scientific venues, and through other venues such as industry forums, standards bodies, and open source software and product feature releases.
+
+Google publishes hundreds of research papers each year. Publishing is important to us; it enables us to collaborate and share ideas with, as well as learn from, the broader scientific community. Submissions are often made stronger by the fact that ideas have been tested through real product implementation by the time of publication.
+
+We believe the formal structures of publishing today are changing - in computer science especially, there are multiple ways of disseminating information.  We encourage publication both in conventional scientific venues, and through other venues such as industry forums, standards bodies, and open source software and product feature releases.
