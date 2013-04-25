@@ -12,30 +12,7 @@ catg = {
 delmet = "[\W\s]"
 
 
-def domap(args):
-    words = args
-    records = dict()
-    for element in words:
-        element = element.lower()
-        if ( element in records ):
-            records[element] += 1
-        else:
-            records[element] = 1
-    return records
 
-def mcheck(resultset):
-        return len(resultset) > 0
-
-def mpre_handle(args):
-        ptn = re.compile(delmet)
-        raw_split = ptn.split(args[1])
-        return mdenoise(raw_split)
-
-def mdenoise(words, ptn = ""):
-        for el in words:
-            if re.match("[\s]", el) or el == '':
-                words.remove(el)
-        return words    
 
 
 
